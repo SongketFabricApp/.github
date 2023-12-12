@@ -1,12 +1,3 @@
-## Hi there 👋
+Welcome Everyone!!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Songket Fabric Recognition App represents an innovative application meticulously crafted to detect and identify songket fabrics within users' photographs. Our aim is to empower users by unraveling the fabric's name, motif, and providing a comprehensive description, thereby acting as a portal inviting individuals to immerse themselves deeper into Indonesian culture, specifically exploring the intricate realm of Indonesian songket fabrics. We envision that through our application, Indonesians will foster a heightened appreciation and profound understanding of their rich heritage.
