@@ -44,13 +44,13 @@ https://www.figma.com/file/P3DYvqTFkLGTrMe8etVQQv/Bangkit-Project-App?type=desig
 <table>
   <tbody>
  <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/eka.jpg" width="100px;"/><br /><b>Siska</b></a><br /><a href="">Mobile Dev</a></td>
-     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/siska.jpg" width="100px;"/><br /><b>Siska</b></a><br /><a href="">Mobile Dev</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/dika.jpg" width="100px;""/><br /><b>Dika</b></a><br /><a href="">CloudDev</a></td>
-     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/tegar.JPG" width="100px;""/><br /><b>Tegar</b></a><br /><a href="">Cloud Dev</a></td>
-     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/chio.jpeg" width="100px;""/><br /><b>Marchio</b></a><br /><a href="">ML Dev</a></td>
-     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/nia.jpeg" width="100px;"/><br /><b>Nia</b></a><br /><a href="">ML Dev</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/mia.jpeg" width="100px;"/><br /><b>Mia</b></a><br /><a href="">ML Dev</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/eka.jpg" width="100px;"/><br /><a><b>Eka</b></a></a><br /><a>Mobile Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/siska.jpg" width="100px;"/><br /><a><b>Siska</b></a></a><br /><a>Mobile Dev</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/dika.jpg" width="100px;""/><br /><a><b>Dika</b></a></a><br /><a>CloudDev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/tegar.JPG" width="100px;""/><br /><a><b>Tegar</b></a></a><br /><a>Cloud Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/chio.jpeg" width="100px;""/><br /><a><b>Marchio</b></a></a><br /><a>ML Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/nia.jpeg" width="100px;"/><br /><a><b>Nia</b></a></a><br /><a>ML Dev</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/mia.jpeg" width="100px;"/><br /><a><b>Mia</b></a></a><br /><a>ML Dev</a></td>
     </tr>
  </tbody>
 </table>
