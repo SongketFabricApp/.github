@@ -13,9 +13,19 @@ The Songket Fabric Recognition App represents an innovative application meticulo
 
 ## Mock Up Songket Fabric Recognition App
 
-## Login
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/blob/main/mock%20up%20app/Welcome.png" alt="Welcome" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/blob/main/mock%20up%20app/camera.png" alt="Detail Songket" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/blob/main/mock%20up%20app/maps.png" alt="Welcome" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/blob/main/mock%20up%20app/Detail%20Songket.png" alt="Detail Songket" width="200"></td>
+  </tr>
+</table>
 
-
+## Figma Mock Up Link
+```
+https://www.figma.com/file/P3DYvqTFkLGTrMe8etVQQv/Bangkit-Project-App?type=design&node-id=287-28453&mode=design&t=5p8o5fXjtXqyZF7D-0
+```
 
 ## Authors Team ID: `CH2-PS251`
 
@@ -29,6 +39,20 @@ The Songket Fabric Recognition App represents an innovative application meticulo
 | I Putu Eka Wahyu      | `A014BSY2734`           | MD | Udayana University |
 | Siska Khoirunnisa      | `A268BSX2932`           | MD | Muhammadiyah Surakarta University |
 
+## Our Project Maintainers 
 
+<table>
+  <tbody>
+ <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/eka.jpeg" width="100px;"/><br /><b>Siska</b></a><br /><a href="">Mobile Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/siska.jpg" width="100px;"/><br /><b>Siska</b></a><br /><a href="">Mobile Dev</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/made.jpeg" width="100px;""/><br /><b>Dika</b></a><br /><a href="">CloudDev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/tegar.JPG" width="100px;""/><br /><b>Tegar</b></a><br /><a href="">Cloud Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/chio.jpeg" width="100px;""/><br /><b>Marchio</b></a><br /><a href="">ML Dev</a></td>
+     <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/nia.jpeg" width="100px;"/><br /><b>Nia</b></a><br /><a href="">ML Dev</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanzla.ga"><img src="https://github.com/SongketFabricApp/.github/blob/main/avatar/mia.jpeg" width="100px;"/><br /><b>Mia</b></a><br /><a href="">ML Dev</a></td>
+    </tr>
+ </tbody>
+</table>
 
 
