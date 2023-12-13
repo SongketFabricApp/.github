@@ -1,4 +1,4 @@
-![logo lands](https://github.com/SongketFabricApp/.github/assets/90699197/eb6f6bfb-ef64-4f44-bb79-fe63b70c7d21)
+![testt](https://github.com/SongketFabricApp/.github/assets/90699197/8c953b9a-459d-4001-b1cf-223be139cbbf)
 
 # Songket Fabric Recognition App
 
