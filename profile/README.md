@@ -1,4 +1,3 @@
-![alt text](https://github.com/SongketFabricApp/.github/blob/main/logos/logos.png?raw=true)
 
 Welcome Everyone!!
 
