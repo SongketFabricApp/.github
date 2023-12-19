@@ -33,7 +33,7 @@ https://www.figma.com/file/P3DYvqTFkLGTrMe8etVQQv/Bangkit-Project-App?type=desig
 | :--------------- | :-------------- |:------| :------|
 | Marchio Apriadi           | `M009BSY0983`           | ML | Gunadarma University |
 | Mia Maulidiya          | `M227BSX1344`           | ML | Jember University |
-| Kadek Nia Widiartini          | `M014BSX1414`            | ML | Udayana Universit |
+| Kadek Nia Widiartini          | `M014BSX1414`            | ML | Udayana University |
 | I Made Mahardika Dharmajaya          | `C014BSY4108`            | CC | Udayana University |
 | Tegar Maulana          | `C009BSY3636`           | CC | Gunadarma University |
 | I Putu Eka Wahyu      | `A014BSY2734`           | MD | Udayana University |
