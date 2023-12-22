@@ -15,10 +15,10 @@ The Songket Fabric Recognition App represents an innovative application meticulo
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/e02aebe4-b2e2-43af-8fa9-83ffa30375d7" alt="Welcome" width="200"></td>
-    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/18dd3146-b2a9-4f5e-b20f-e1cf525978ba" alt="Detail Songket" width="200"></td>
-    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/771d5779-eac0-4bfb-b7c4-a101bf1da43e" alt="Welcome" width="200"></td>
-    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/69632bf2-5de0-471a-aec9-0a1baa011b96" alt="Detail Songket" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/f90637c5-919d-4eca-8057-13ae7ffeb8b4" alt="Welcome" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/fb70cf7f-268c-4908-8e5b-7e122b152879" alt="Detail Songket" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/5e64b6c8-6f5a-4e8f-b955-56bda0880593" alt="Welcome" width="200"></td>
+    <td align="center"><img src="https://github.com/SongketFabricApp/.github/assets/90699197/22acaf90-0ce9-4b6d-b77f-6a0716a165d6" alt="Detail Songket" width="200"></td>
   </tr>
 </table>
 
